@@ -23,10 +23,11 @@ body {
     font-weight: 700;
 }
 
-.section-discription {
+.section-description {
     color: #757575;
     text-align: center;
     font-size: 18px;
+    font-weight: 400px;
 }
 
 nav {
@@ -128,7 +129,7 @@ main section{
 
 
 
-#what-i-do-description {
+#what-i-do{
     padding: 30px 150px;
 }
 
@@ -147,4 +148,12 @@ main section{
 
 .skill-description {
     color:#757575;
+}
+
+/* resume-column-title */
+
+.resume-column-title{
+    color:#474747;
+font-size: 30px;
+font-weight: 700;
 }
